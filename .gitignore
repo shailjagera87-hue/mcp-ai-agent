@@ -3,3 +3,7 @@ venv/
 __pycache__/
 .pytest_cache/
 *.pyc
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
