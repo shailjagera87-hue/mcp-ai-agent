@@ -1,0 +1,17 @@
+mcp
+langchain
+langchain-groq
+langchain-openai
+langchain-mcp-adapters
+fastapi
+uvicorn
+streamlit
+pydantic
+pydantic-settings
+python-dotenv
+sqlalchemy
+psycopg[binary]
+redis
+httpx
+pytest
+pytest-asyncio
